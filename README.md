@@ -1,5 +1,7 @@
 # Frugo Theme
 
+![frugo](dark-logo.png)
+
 Minimalist Hugo theme meant to be used for static blogs and personal website. I made it for my friend Freddie initially, but feel free to use it for yours too :)
 
 Check out [Freddie's portfolio](https://github.com/wickedjargon/)!
