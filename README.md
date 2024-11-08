@@ -29,3 +29,11 @@ git submodule add https://github.com/Karunika/frugo.git themes/frugo
 ```
 echo "theme = 'frugo'" >> hugo.toml
 ```
+
+## Looking for a Specific Feature?
+
+Feel free to suggest new features or report any bugs! I’ll do my best to address them and get back to you ASAP <3
+
+## Contribution
+
+Interested in contributing? Go ahead and submit a pull request! I’ll review it as soon as I can. 😊
