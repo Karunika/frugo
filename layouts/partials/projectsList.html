@@ -1,0 +1,11 @@
+<ul>
+    {{ range .Site.Data.projects }}
+        <li>
+            <a href="{{ .href }}">
+                {{ .name }}
+            </a>
+            &ndash;
+            {{ .description }}
+        </li>
+    {{ end }}
+</ul>

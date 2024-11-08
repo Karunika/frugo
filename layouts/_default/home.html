@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ .Content }}
+  <h2>Projects</h2>
+  {{ partial "projectsList.html" . }}
+  <h2>Blogs</h2>
+  {{ partial "blogsList.html" . }}
+{{ end }}
